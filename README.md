@@ -2,7 +2,7 @@
 <p align="right">
   <img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" alt="Avatar"/>
 </p>
-![avatar](https://user-images.githubusercontent.com/35489549/156057715-6141f409-b2d6-4b72-a037-97d33c0a3746.png)
+![avatar][razim](https://user-images.githubusercontent.com/35489549/156057715-6141f409-b2d6-4b72-a037-97d33c0a3746.png)
 
 
 <!--
