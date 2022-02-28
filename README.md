@@ -1,5 +1,7 @@
 ### Hi there 👋
-  ![Screenshot 2022-03-01 020023](https://user-images.githubusercontent.com/35489549/156054214-0508fe19-04db-499c-ab7b-c9f4c3879550.png)
+<p align="center">
+  <img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" />
+</p>
 
 
 <!--
