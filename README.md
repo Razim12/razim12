@@ -1,9 +1,5 @@
 ### Hi there 👋
-<p align="right">
-  <img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" style="width:300px"/>
-</p>
-
-
+![avatar](https://github.com/Razim12/razim12/blob/main/Images/razim.png)
 <!--
 **Razim12/razim12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
