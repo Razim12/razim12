@@ -1,20 +1,10 @@
 ### Hi there 👋
-<head>
-    <meta charset="utf-8">
-    <title>Avatar</title>
-    <style>
-      /* Write your CSS solution here (do not edit the surrounding HTML) */
-      .avatar {
-        height: 150px;
-        width: 150px;
-        border: 2px solid gray;
-        border-radius: 50%;
-      }
-    </style>
-  </head>
-  <body>
-    <img class="avatar" src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" alt="avatar" />
-  </body>
+<p align="right">
+  <img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" alt="Avatar"/>
+</p>
+![avatar](https://user-images.githubusercontent.com/35489549/156057715-6141f409-b2d6-4b72-a037-97d33c0a3746.png)
+
+
 <!--
 **Razim12/razim12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
