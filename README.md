@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" align="right"/> <p align="center">
-  Hi How are you
+  <h1> I'm Razim</h1>
   </p>
 
 
