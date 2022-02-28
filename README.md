@@ -1,7 +1,23 @@
 ### Hi there 👋
-<p align="right">
-  <img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" alt="Avatar"/>
-</p>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
+
+<h2>Rounded Images</h2>
+  <p align="right">
+  <img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" alt="Avatar" style="width:200px"/>
+  </p>
+</body>
+</html> 
+
 
 
 <!--
