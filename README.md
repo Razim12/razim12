@@ -1,16 +1,12 @@
 ### Hi there 👋
-<p align="right">
-  <img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" alt="Avatar"/>
-</p>
-
-      <svg width="500" height="350">
-         <defs>
-            <clipPath id="myCircle">
-               <circle cx="250" cy="145" r="125" fill="#FFFFFF" />
-            </clipPath>
-         </defs>
-         <image width="500" height="350" xlink:href="https://github.com/Razim12/razim12/blob/main/Images/razim.png" clip-path="url(#myCircle)" />
-      </svg>
+<svg width="500" height="350">
+  <defs>
+    <clipPath id="myCircle">
+       <circle cx="250" cy="145" r="125" fill="#FFFFFF" />
+    </clipPath>
+  </defs>
+    <image width="500" height="350" xlink:href="https://github.com/Razim12/razim12/blob/main/Images/razim.png" clip-path="url(#myCircle)" />
+</svg>
 
 
 <!--
