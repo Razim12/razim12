@@ -1,12 +1,6 @@
 <img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" align="right"/> <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/razimaq/" target="_blank"> Abdul Qayoom Razim </a></h1>
 <h3 align="center">SRE|Devops Engineer</h3>
 
-
-
-**Razim12/razim12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Devops
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
