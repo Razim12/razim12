@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center">
+<p align="right">
   <img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" />
 </p>
 
