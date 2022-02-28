@@ -1,7 +1,6 @@
 ### Hi there 👋
-<p align="right">
-  <img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png"/>
-</p>
+<img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" align="right"/>
+
 
 
 <!--
