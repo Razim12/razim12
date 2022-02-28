@@ -2,7 +2,15 @@
 <p align="right">
   <img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" alt="Avatar"/>
 </p>
-![razim](https://user-images.githubusercontent.com/35489549/156057715-6141f409-b2d6-4b72-a037-97d33c0a3746.png)
+
+      <svg width="500" height="350">
+         <defs>
+            <clipPath id="myCircle">
+               <circle cx="250" cy="145" r="125" fill="#FFFFFF" />
+            </clipPath>
+         </defs>
+         <image width="500" height="350" xlink:href="https://github.com/Razim12/razim12/blob/main/Images/razim.png" clip-path="url(#myCircle)" />
+      </svg>
 
 
 <!--
