@@ -1,7 +1,5 @@
-### Hi there 👋
-<img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" align="right"/> <p h1 align="center">
-   I'm Razim
-  </p>
+<img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" align="right"/> <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/razimaq/" target="_blank"> Abdul Qayoom Razim </a></h1>
+<h3 align="center">SRE|Devops Engineer</h3>
 
 
 
