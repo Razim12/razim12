@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="right">
-  <img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" alt="Avatar" style="width:200px"/>
+  <img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" style="width:300px"/>
 </p>
 
 
