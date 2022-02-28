@@ -6,6 +6,7 @@
 - 📫 How to reach me: **razim12@outlook.com**
 - 😄 Pronouns: he/his
 - 👯 I’m looking to collaborate on **OpenSource Projects**
+- 💬 Ask me about Design thinking,Agile,Devops
 
 <!--
 - 🤔 I’m looking for help with ...
