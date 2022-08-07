@@ -14,9 +14,9 @@
 - ⚡ Fun fact: ...
 -->
 
-| theodorusclarence.com | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;docs.thcl.dev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| razim.com | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |:-:|:-:|
-|<a href="https://theodorusclarence.com"><img src="" alt="Screenshot of theodorusclarence.com" width="400"></a><br />Find my Personal website here<br /><br /><a href="https://theodorusclarence.com">**Visit**</a> |
+|<a href=""><img src="" alt="Screenshot of razim.com" width="400"></a><br />Find my Personal website here<br /><br /><a href="">**Visit**</a> |
 
 ## Connect with me:
 <p align="left">
