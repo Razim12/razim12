@@ -13,8 +13,27 @@
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
+<Razim>
+    
+
+| theodorusclarence.com | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;docs.thcl.dev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+|:-:|:-:|
 
 
+
+## Statistics
+
+<div>
+  <img height="154" src="https://github-readme-stats.vercel.app/api?username=theodorusclarence&show_icons=true&theme=react&count_private=true&hide=contribs" />
+  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodorusclarence&layout=compact&theme=react&hide=php&langs_count=6" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=theodorusclarence&layout=compact&theme=react&langs_count=6" />
+</div>
+
+
+
+
+
+<RAZIM>
 ## Connect with me:
 <p align="left">
 
