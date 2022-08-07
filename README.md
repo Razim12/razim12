@@ -15,7 +15,7 @@
 -->
 
 | theodorusclarence.com | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-|:-:|:-:|
+|:-:|
 |<a href="https://theodorusclarence.com"><img src="https://user-images.githubusercontent.com/55318172/147338011-1584346a-24bc-435c-bb3b-275ed6640402.png" alt="Screenshot of theodorusclarence.com" width="400"></a><br />Find my Personal website here<br /><br /><a href="https://theodorusclarence.com">**Visit**</a> |
 
 ## Connect with me:
