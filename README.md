@@ -18,6 +18,10 @@
 |:-:|:-:|
 |<a href=""><img src="" alt="Screenshot of razim.com" width="400"></a><br />Find my Personal website here<br /><br /><a href="">**Visit**</a> |
 
+## Authors
+
+- [@razim](https://github.com/Razim12)
+
 ## Connect with me:
 <p align="left">
 
