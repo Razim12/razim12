@@ -31,11 +31,7 @@ Jenkins, and GitHub.
 <a href = "https://twitter.com/Razim1424"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/a_qr_12/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## 😄Feedback
+## 😄 Feedback
 
 If you have any feedback, please reach out to us at razim12@outlook.com
 
@@ -44,6 +40,9 @@ If you have any feedback, please reach out to us at razim12@outlook.com
     <img src="https://komarev.com/ghpvc/?username=razim12">
 </a>
 <a href="https://github.com/razim12?tab=followers"><img src="https://img.shields.io/github/followers/razim12?label=Followers&style=social" alt="GitHub Badge"></a>
-    
+
+## 📝 License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
