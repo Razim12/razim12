@@ -33,7 +33,7 @@ Jenkins, and GitHub.
 
 ## 😄 Feedback
 
-If you have any feedback, please reach out to us at razim12@outlook.com
+If you have any feedback, please reach out to me at razim12@outlook.com
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
