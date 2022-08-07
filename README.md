@@ -1,6 +1,6 @@
 <img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" align="right"/> <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/razimaq/" target="_blank"> Abdul Qayoom Razim </a></h1>
 <h3 align="center">Entrepreneur|Product Manager|Devops Engineer|SRE</h3>
-
+You can call me **Razim**.
 - 🔭 I’m currently working on Devops
 - 🌱 Learning Never Stops 🚀
 - 📫 How to reach me: **razim12@outlook.com**
