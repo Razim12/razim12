@@ -34,3 +34,9 @@
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Feedback
+
+If you have any feedback, please reach out to us at razim12@outlook.com
+
+
