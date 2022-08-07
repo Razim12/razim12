@@ -41,7 +41,7 @@ If you have any feedback, please reach out to me at razim12@outlook.com
 </a>
 <a href="https://github.com/razim12?tab=followers"><img src="https://img.shields.io/github/followers/razim12?label=Followers&style=social" alt="GitHub Badge"></a>
 
-## 📝 License
+## 📄 License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
