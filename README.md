@@ -13,16 +13,7 @@
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-<Razim>
-    
-
-| theodorusclarence.com | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;docs.thcl.dev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-|:-:|:-:|
-
-
-
-## Statistics
-
+| theodorusclarence.com |
 <div>
   <img height="154" src="https://github-readme-stats.vercel.app/api?username=theodorusclarence&show_icons=true&theme=react&count_private=true&hide=contribs" />
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodorusclarence&layout=compact&theme=react&hide=php&langs_count=6" />
