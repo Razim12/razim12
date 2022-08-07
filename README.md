@@ -43,6 +43,6 @@ If you have any feedback, please reach out to me at razim12@outlook.com
 
 ## 📝 License
 
-- [MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
