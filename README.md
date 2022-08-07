@@ -12,12 +12,12 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
--->
+
 
 | razim.com | &nbsp;
 |:-:|:-:|
 |<a href=""><img src="" alt="Screenshot of razim.com" width="400"></a><br />Find my Personal website here<br /><br /><a href="">**Visit**</a> |
-
+-->
 
 ## 🛠 Skills
 Design Thinking, User Research, User Empathy, Strategy & Roadmap, Miro, Jira, Agile Development, Sketch, Sticky Note, Pencil & 
