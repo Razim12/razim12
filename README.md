@@ -24,7 +24,7 @@ Design Thinking, User Research, User Empathy, Strategy & Roadmap, Miro, Jira, Ag
 Paper, Advance Excel, Tally Software, Busy Accounting Software, Linux Command, Filesystem Internals, Python, Docker, Kubernetes, 
 Jenkins, and GitHub.
 
-## Connect with me:
+## 📌 Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/razimaq/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
