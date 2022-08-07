@@ -15,7 +15,7 @@
 -->
 
 | razim.com | &nbsp;
-|:-:|:-:|
+|:-:|::|
 |<a href=""><img src="" alt="Screenshot of razim.com" width="400"></a><br />Find my Personal website here<br /><br /><a href="">**Visit**</a> |
 
 ## Connect with me:
