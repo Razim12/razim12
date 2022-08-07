@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ...
 -->
 
-| razim.com | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| razim.com | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |:-:|:-:|
 |<a href=""><img src="" alt="Screenshot of razim.com" width="400"></a><br />Find my Personal website here<br /><br /><a href="">**Visit**</a> |
 
