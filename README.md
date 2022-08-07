@@ -14,14 +14,15 @@
 - ⚡ Fun fact: ...
 -->
 
-## 🛠 Skills
-Design Thinking; User Research; User Empathy; Strategy & Roadmap; Miro; Jira; Agile Development; Sketch; Sticky Note; Pencil & 
-Paper; Advance Excel; Tally Software; Busy Accounting Software; Linux Command; Filesystem Internals; Python; Docker; Kubernetes; 
-Jenkins; GitHub
-
 | razim.com | &nbsp;
 |:-:|:-:|
 |<a href=""><img src="" alt="Screenshot of razim.com" width="400"></a><br />Find my Personal website here<br /><br /><a href="">**Visit**</a> |
+
+
+## 🛠 Skills
+Design Thinking; User Research; User Empathy; Strategy & Roadmap; Miro; Jira; Agile Development; Sketch; Sticky Note; Pencil & 
+Paper; Advance Excel; Tally Software; Busy Accounting Software; Linux Command; Filesystem Internals; Python; Docker; Kubernetes; 
+Jenkins; GitHub.
 
 ## Connect with me:
 <p align="left">
