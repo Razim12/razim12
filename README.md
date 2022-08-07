@@ -18,10 +18,6 @@
 |:-:|:-:|
 |<a href=""><img src="" alt="Screenshot of razim.com" width="400"></a><br />Find my Personal website here<br /><br /><a href="">**Visit**</a> |
 
-## Authors
-
-- [@razim](https://github.com/Razim12)
-
 ## Connect with me:
 <p align="left">
 
@@ -35,6 +31,10 @@
 </a>
 <a href="https://github.com/razim12?tab=followers"><img src="https://img.shields.io/github/followers/razim12?label=Followers&style=social" alt="GitHub Badge"></a>
 
+## Author
+
+- [@razim](https://github.com/Razim12)
+    
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
