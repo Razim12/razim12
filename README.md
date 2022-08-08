@@ -9,6 +9,7 @@
 - 💬 Ask me about Design thinking,Agile,Devops
 
 <!--
+Comment
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
@@ -20,11 +21,13 @@
 -->
 
 ## 🛠 Skills
+
 Design Thinking, User Research, User Empathy, Strategy & Roadmap, Miro, Jira, Agile Development, Sketch, Sticky Note, Pencil & 
 Paper, Advance Excel, Tally Software, Busy Accounting Software, Linux Command, Filesystem Internals, Python, Docker, Kubernetes, 
 Jenkins, and GitHub.
 
 ## 📌 Connect with me:
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/razimaq/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -35,7 +38,13 @@ Jenkins, and GitHub.
 
 If you have any feedback, please reach out to me at razim12@outlook.com
 
+
+If you like my content or find anything useful, give it a :star: or support me by buying me a coffee :coffee::grinning:
+
+<a href="https://www.buymeacoffee.com/anniedotexe" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 ## ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=razim12">
 </a>
