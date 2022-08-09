@@ -1,12 +1,12 @@
 <img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" align="right"/><h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/razimaq/" target="_blank"> Abdul Qayoom Razim! 👋 </a></h1>
 <h3 align="center">Entrepreneur|Product Manager|Devops Engineer</h3>
 
-- 🔭 I’m currently working on Product management and devops
 - 🌍  I'm based in India
-- 🌱 Learning Never Stops 🚀
+- 🔭 I’m currently working on Product management and devops
 - 📫 How to reach me: **razim12@outlook.com**
 - 😄 Pronouns: he/his
 - 👯 I’m looking to collaborate on OpenSource Projects
+- 🌱 Learning Never Stops 🚀
 - 💬 Ask me about Design thinking,Agile,Devops
 
 <!--
