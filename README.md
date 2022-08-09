@@ -30,7 +30,6 @@ Jenkins, and GitHub.
 ## 📌 Connect with me:
 
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/razimaq/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>    
 <a href = "https://twitter.com/Razim1424"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/a_qr_12/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
