@@ -43,7 +43,7 @@ Jenkins, and GitHub.
 
 If you have any feedback, please reach out to me at razim12@outlook.com
 
-## 😄 Support Me
+## ✊ Support Me
 
 If you like my content or find anything useful, give it a :star: or support me by buying me a coffee :coffee::grinning:
 
