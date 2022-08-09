@@ -2,6 +2,8 @@
 <h3 align="center">Entrepreneur|Product Manager|Devops Engineer</h3>
 
 - 🔭 I’m currently working on Product management and devops
+- 🌍  I'm based in India
+- ✉️  You can contact me at [razim12@outlook.com](mailto:razim12@outlook.com)
 - 🌱 Learning Never Stops 🚀
 - 📫 How to reach me: **razim12@outlook.com**
 - 😄 Pronouns: he/his
