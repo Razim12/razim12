@@ -30,19 +30,12 @@ Jenkins, and GitHub.
 ## 📌 Connect with me:
 
 <br> 
-
 <a href="https://discord.gg/XG8vasMJFv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="22px" height="22px" align="left" alt="Razim's Discord"/></a>
-
 <a href="https://www.facebook.com/abdul.razeem/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="22px" height="22px" align="left" alt="Razim's Facebook" /></a> 
-
 <a href="https://github.com/Razim12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="22px" height="22px" align="left" alt="Razim's Github" /></a> 
-
 <a href="https://www.linkedin.com/in/razimaq/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22px" height="22px" align="left" alt="Razim's Linkedin" /></a> 
-
 <a href="https://twitter.com/Razim1424" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="22px" height="22px" align="left" alt="Razim's Twitter" /></a>
-
 <a href="https://www.instagram.com/a_qr_12/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="22px" height="22px" align="left" alt="Razim's Instagram" /></a>
-
 <a href="https://www.polywork.com/razim" target="_blank" rel="noreferrer"><img src="https://github.com/Razim12/razim12/blob/main/Images/polywork-symbol-idryuycdc2.png" width="22px" height="22px" align="left" alt="Razim's Polywork" /></a>
 </br>
 
