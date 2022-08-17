@@ -29,7 +29,7 @@ Jenkins, and GitHub.
 
 ## 📌 Connect with me:
 
-<p align="left"> 
+<br> 
 
 <a href="https://discord.gg/XG8vasMJFv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="22px" height="22px" align="left" alt="Razim's Discord"/></a>
 
@@ -44,7 +44,7 @@ Jenkins, and GitHub.
 <a href="https://www.instagram.com/a_qr_12/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="22px" height="22px" align="left" alt="Razim's Instagram" /></a>
 
 <a href="https://www.polywork.com/razim" target="_blank" rel="noreferrer"><img src="https://github.com/Razim12/razim12/blob/main/Images/polywork-symbol-idryuycdc2.png" width="22px" height="22px" align="left" alt="Razim's Polywork" /></a>
-</p>
+</br>
 
 ## 😄 Feedback
 
