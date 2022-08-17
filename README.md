@@ -1,4 +1,7 @@
 <img src="https://github.com/Razim12/razim12/blob/main/Images/razim.png" align="right"/><h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/razimaq/" target="_blank"> Abdul Qayoom Razim! 👋 </a></h1>
+
+###  :man_technologist:  [Abdul Qayoom Razim](https://www.linkedin.com/in/razimaq/)
+
 <h3 align="center">Entrepreneur|Product Manager|Devops Engineer</h3>
 
 - 🌍  I'm based in India
