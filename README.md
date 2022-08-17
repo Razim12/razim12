@@ -31,7 +31,7 @@ Jenkins, and GitHub.
 
 <p align="left"> 
 
-<a href="https://discord.gg/XG8vasMJFv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://discord.gg/XG8vasMJFv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="22px" height="22px" align="left" alt="Razim's Facebook"/></a>
 
 <a href="https://www.facebook.com/abdul.razeem/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
 
